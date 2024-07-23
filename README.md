@@ -1,5 +1,5 @@
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Ayo, I'm Phineas!
 
