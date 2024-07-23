@@ -34,21 +34,21 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 **...there will be a few more!**
 
-## 🐍 GitHub Snake
+## 📊 GitHub Stats
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Phineas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=fineaszz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight&card_width=400)
 
----
+## 📝 Most Used Languages
 
-## GitHub Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fineaszz&layout=compact&theme=tokyonight&card_width=400)
 
-### 📊 My GitHub Stats
+## 🏆 GitHub Streak Stats
 
-![Phineas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=fineaszz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fineaszz&theme=tokyonight&card_width=400)
 
-### 📝 Most Used Languages
+## 💡 Contribution Graph
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fineaszz&layout=compact&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fineaszz&theme=tokyonight&hide_border=true&card_width=400)
 
 ---
 
