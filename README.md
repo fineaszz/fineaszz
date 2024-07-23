@@ -38,13 +38,12 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## TEST
-
 <br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Fineaszz/count.svg?"  />
 </div>
+
 ---
 
 <p align="right"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
