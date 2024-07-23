@@ -34,22 +34,12 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 **...there will be a few more!**
 
-## 📊 GitHub Stats
-
-![Phineas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=fineaszz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight&card_width=400)
-
-## 📝 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fineaszz&layout=compact&theme=tokyonight&card_width=400)
-
-## 🏆 GitHub Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fineaszz&theme=tokyonight&card_width=400)
-
-## 💡 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fineaszz&theme=tokyonight&hide_border=true&card_width=400)
-
 ---
 
 <p align="right"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://some-external-service.com/badge?user=fineaszz)
