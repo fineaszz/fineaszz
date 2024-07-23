@@ -44,11 +44,11 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 ### 📊 My GitHub Stats
 
-![Phineas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoja-nazwa-uzytkownika&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Phineas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=fineaszz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ### 📝 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twoja-nazwa-uzytkownika&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fineaszz&layout=compact&theme=tokyonight)
 
 ---
 
