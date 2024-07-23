@@ -4,7 +4,7 @@
 
 > Witaj w CFELOWNI!<br>
 
-## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/creamrp) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@soon&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/) [![Views](https://github-views.deno.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://igorkowalczyk.dev) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
+## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/creamrp) [![Views](https://github-views.deno.dev/api/badge/fineaszz?style=flat&color=333&cache=none)](https://github.com/fineaszz) <br><br><br>
 
 <a href="https://discord.com/users/362319392454868993">
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/362319392454868993?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
