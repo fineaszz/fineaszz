@@ -5,7 +5,7 @@
 
 > Witaj w CFELOWNI!<br>
 
-## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/creamrp) [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe) [![Views](https://github-views.deno.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://igorkowalczyk.dev) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
+## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/creamrp) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@soon&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/) [![Views](https://github-views.deno.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://igorkowalczyk.dev) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
 
 <a href="https://discord.com/users/362319392454868993">
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/362319392454868993?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
@@ -37,4 +37,4 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
+<p align="right"><img src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png" width="18px"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
