@@ -4,8 +4,7 @@
 
 > Witaj w CFELOWNI!<br>
 
-## [![Discord](https://img.shields.io/discord/1201709928155193395?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/creamrp) <br><br><br>
-
+## [![Discord](https://img.shields.io/discord/1201709928155193395?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
 <a href="https://discord.com/users/362319392454868993">
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/362319392454868993?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
 </a>
