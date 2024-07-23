@@ -1,6 +1,6 @@
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
 
-## [![Fineaszz BOOS](https://img.shields.io/badge/icon-crown-yellow?color=333&label=Fineaszz%20BOOS&logo=&logoColor=fff&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
+## [![Fineaszz Boos](https://img.shields.io/badge/Fineaszz_Boos-%23FF8C00?color=333&label=Fineaszz%20Boos&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
 
 > Witaj w CFELOWNI!<br>
 
