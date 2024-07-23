@@ -1,4 +1,3 @@
-
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Ayo, I'm Phineas!
@@ -37,4 +36,4 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 
 ---
 
-<p align="right"><img src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png" width="18px"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
+<p align="right"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
