@@ -37,9 +37,3 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 ---
 
 <p align="right"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
-
----
-
-### 👀 Profile Views
-
-![Profile Views](https://some-external-service.com/badge?user=fineaszz)
