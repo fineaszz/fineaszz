@@ -1,3 +1,4 @@
+
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Ayo, I'm Phineas!
@@ -33,6 +34,10 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="30" alt="lua logo"/></code>
 
 **...there will be a few more!**
+
+## 🐍 GitHub Contribution Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
