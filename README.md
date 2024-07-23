@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fineaszz/Fineaszz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fineaszz/fineaszz/snake.yml" alt="Snake animation" />
 
 ###
 
