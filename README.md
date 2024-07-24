@@ -45,3 +45,7 @@ Over the years, I have gained valuable experiences that have allowed me to grow 
 ---
 
 <p align="right"> <a href="FINEASZ TOPKA SKURWYSYNIE"> @fineaszz</a></p>
+
+<div align="center">
+  <a href="http://sekurwaposzukaj.pl/" target="_blank">My Portfolio</a>
+</div>
