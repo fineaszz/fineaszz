@@ -1,4 +1,4 @@
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="avatar" src="https://www.pngmart.com/files/23/Phineas-PNG-Isolated-File.png">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="avatar" src="https://cdn.discordapp.com/avatars/897238909463965769/8e1d383ed0d07b8ee0abbaf8638dc0cd.png?size=128">
 
 ## [![Fineaszz Boos](https://img.shields.io/badge/Fineaszz-%23FF8C00?color=333&label=Boos&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
 
