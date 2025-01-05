@@ -1,17 +1,9 @@
-> Ayo!<br>
-## [![Fineaszz Boos](https://img.shields.io/badge/Fineaszz-%23FF8C00?color=333&label=Boos&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
 
-<p align="left">
-<code><a href="https://discord.com/users/362319392454868993" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/channel/UCCdFW-Q9p737No_-ZSKKUEQ" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
-<code><a href="https://open.spotify.com/user/31ivmw4q4yhxxernhjlov4mdzcnq" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify logo" width="30" height="30"/></a></code>
-</p>
 
-### 🎮 History
-
+### 💫 About Me:
 I started my programming journey in 2017. At first, I focused on learning Lua, which provided me with a solid foundation for further development.
 In 2018, I expanded my skills by learning both JavaScript and Python. These two languages became the cornerstone of my programming knowledge.
-In 2019 and 2020, I began exploring the intricacies of [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), enabling me to create simple websites and better understand the structure and design of web applications.
+In 2019 and 2020, I began exploring the intricacies of HTML and CSS, enabling me to create simple websites and better understand the structure and design of web applications.
 Currently, I am focusing on modeling, aiming to enhance my skills in this area. Primarily, I work as a developer on the FiveM platform, creating various modifications and scripts for the gaming community.
 Over the years, I have gained valuable experiences that have allowed me to grow and undertake increasingly advanced projects.
 
