@@ -2,7 +2,7 @@
 
 ## [![Fineaszz Boos](https://img.shields.io/badge/Fineaszz-%23FF8C00?color=333&label=Boos&style=flat-square)](https://discord.gg/1201709928155193395) <br><br><br>
 
-> Witaj w CFELOWNI!<br>
+> Ayo!<br>
 
 <a href="https://discord.com/users/362319392454868993">
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/362319392454868993?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
