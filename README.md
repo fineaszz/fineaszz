@@ -4,10 +4,6 @@
 
 > Ayo!<br>
 
-<a href="https://discord.com/users/362319392454868993">
- <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/362319392454868993?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
-</a>
-
 <p align="left">
 <code><a href="https://discord.com/users/362319392454868993" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
 <code><a href="https://www.youtube.com/channel/UCCdFW-Q9p737No_-ZSKKUEQ" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
